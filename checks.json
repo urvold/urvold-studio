@@ -1,0 +1,14 @@
+{
+  "routes": 13,
+  "basePath": "/urvold-studio/",
+  "status": "passed",
+  "checks": [
+    "SSR route rendering with Pages basename",
+    "one h1 per route",
+    "internal link targets and Pages prefix",
+    "local image files and prefix",
+    "404 pages",
+    "no forms or input fields"
+  ],
+  "note": "Browser and published artifact checks are recorded separately."
+}

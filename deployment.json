@@ -1,0 +1,5 @@
+{
+  "basePath": "/urvold-studio/",
+  "routes": ["/", "/projects", "/services", "/about", "/contacts", "/projects/apex", "/projects/forma", "/projects/elan", "/projects/putem", "/projects/potok", "/projects/randomwheel"],
+  "notFoundRoutes": ["/missing", "/projects/missing"]
+}
