@@ -218,5 +218,19 @@
   "pageErrors": [],
   "failedResources": [],
   "thirdPartyRequests": [],
-  "cookies": 0
+  "cookies": 0,
+  "routeAndLayoutTestCommit": "c2f8a22e6c7195d196e3c64c4bcee2e56054b149",
+  "finalBuildVerification": {
+    "commit": "9c9aa456c745a31f5d079f1ae09a6da8b0905b92",
+    "workflow": "https://github.com/urvold/urvold-studio/actions/runs/42618967197",
+    "status": "passed",
+    "checks": [
+      "Manrope loaded in browser",
+      "reduced-motion content immediately visible",
+      "normal scroll reveal",
+      "SVG decorations",
+      "logo crop",
+      "390/1440 no horizontal overflow"
+    ]
+  }
 }
