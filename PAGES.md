@@ -18,17 +18,14 @@
 
 `scripts/check-pages.mjs`: успешно проверяет HTML-точки входа, резервный 404, префиксы JS/CSS, сигнатуры локальных WOFF2 и совпадение SHA-256 исходных/собранных изображений. Результат — `pages-checks.json`; проверка автоматически выполняется в конце каждой production-сборки.
 
-## Блокировка размещения
+## Состояние размещения
 
-GitHub CLI распознаёт аккаунт `urvold`, однако создание репозитория отклонено GitHub:
+Репозиторий создан владельцем: https://github.com/urvold/urvold-studio . Подготовленный проект и workflow загружены в ветку main.
 
-- GraphQL createRepository: `Resource not accessible by integration`.
-- REST POST /user/repos: HTTP 403, `Resource not accessible by integration`.
+Первое включение Pages через REST API текущего GitHub-подключения отклонено: HTTP 403, `Resource not accessible by integration`. Владельцу необходимо выбрать Settings → Pages → Build and deployment → Source → GitHub Actions. Обычный GITHUB_TOKEN workflow не поддерживает первоначальное включение Pages (это указано в описании enablement у actions/configure-pages).
 
-Репозиторий не создан; Actions и публикация не запускались. Это ограничение прав GitHub-подключения. Для продолжения владелец должен создать пустой публичный `urvold/urvold-studio` и предоставить подключению доступ к содержимому, workflow/Actions и Pages. Токены в чат не нужны.
+После выбора источника можно повторно запустить workflow Deploy test site to GitHub Pages. Публикация и проверки работающего сайта пока ожидают включения Pages.
 
-После получения доступа: добавить remote только к этому проекту, отправить `main`, включить Pages с `build_type: workflow`, проверить успешные build/deploy и опубликованные маршруты/ресурсы. Рабочий процесс уже находится в `.github/workflows/pages.yml`.
+Ожидаемый URL после успешного deploy: https://urvold.github.io/urvold-studio/ . До подтверждённого deploy это планируемый адрес.
 
-Ожидаемые адреса после успешной публикации: репозиторий `https://github.com/urvold/urvold-studio`, сайт `https://urvold.github.io/urvold-studio/`. Это планируемые адреса, а не подтверждение существования.
-
-Проверка опубликованной версии и результаты Lighthouse не заявляются без фактического размещения и измерений.
+Результаты Lighthouse не заявляются без фактических измерений.
