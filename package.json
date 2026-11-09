@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "tsc -b && vite build && node scripts/pages.mjs",
+    "build": "tsc -b && vite build && node scripts/pages.mjs && node scripts/check-pages.mjs",
     "preview": "vite preview --host 0.0.0.0",
     "check": "node scripts/check.mjs"
   },

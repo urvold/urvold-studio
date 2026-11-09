@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "basePath": "/urvold-studio/",
+  "knownRoutes": 11,
+  "notFoundScenarios": 2,
+  "localFontFiles": 5,
+  "verifiedResourceFiles": 14,
+  "checks": [
+    "HTML entry for every known route",
+    "404 fallback shell",
+    "Pages prefixes in HTML/CSS",
+    "local font signatures",
+    "source/build image SHA-256 equality",
+    "prototype noindex retained"
+  ],
+  "limitation": "Static artifact checks; not a browser or deployment verification."
+}
