@@ -1,0 +1,224 @@
+{
+  "status": "passed",
+  "commit": "cb89c43090594d6cc83258ee8e037ac2d7824e34",
+  "workflow": "https://github.com/urvold/urvold-studio/actions/runs/42813315147",
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/projects",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/services",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/contacts",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/projects/apex",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/projects/forma",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/projects/elan",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/projects/putem",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/projects/potok",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/projects/randomwheel",
+      "status": 200,
+      "reload": 200
+    },
+    {
+      "route": "/missing",
+      "status": 404,
+      "reload": 404
+    },
+    {
+      "route": "/projects/missing",
+      "status": 404,
+      "reload": 404
+    }
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "contacts/",
+      "overflow": false
+    }
+  ],
+  "interactions": [
+    "mobile menu",
+    "project filters",
+    "services accordion",
+    "contact links"
+  ],
+  "pageErrors": [],
+  "failedResources": [],
+  "thirdPartyRequests": [],
+  "cookies": 0
+}
