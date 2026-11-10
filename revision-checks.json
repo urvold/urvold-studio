@@ -1,0 +1,207 @@
+{
+  "status": "passed",
+  "scope": "Local production build only; no publication",
+  "routes": [
+    "/",
+    "/projects",
+    "/services",
+    "/about",
+    "/contacts",
+    "/projects/apex",
+    "/projects/forma",
+    "/projects/elan",
+    "/projects/putem",
+    "/projects/potok",
+    "/projects/randomwheel",
+    "/missing",
+    "/projects/missing"
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "contacts/",
+      "overflow": false
+    }
+  ],
+  "interactions": [
+    "mobile menu",
+    "three portfolio filters",
+    "six structured services",
+    "five development stages",
+    "unchanged Telegram/MAX"
+  ],
+  "errors": [],
+  "failedResources": [],
+  "externalRequests": [],
+  "cookies": 0
+}

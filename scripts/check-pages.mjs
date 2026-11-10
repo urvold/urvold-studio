@@ -32,11 +32,13 @@ for(const css of [...resources].filter(file=>file.endsWith('.css'))){
  }
 }
 assert.ok(fonts>=2,'Expected local Cyrillic and Latin font resources');
-for(const name of ['urvold-original.jpg','apex.webp','forma.webp','elan.webp','putem.webp','potok.webp','randomwheel.webp']){
+for(const name of ['urvold-original.jpg','urvold-symbol-light.png','urvold-symbol-dark.png','favicon-dark-32.png','urvold-head.webp','urvold-lockup.webp','favicon-32.png','favicon-256.png','favicon.ico','apex.webp','forma.webp','elan.webp','putem.webp','potok.webp','randomwheel.webp']){
  const original=await readFile('public/assets/'+name),built=await readFile('dist/assets/'+name);
  assert.equal(createHash('sha256').update(original).digest('hex'),createHash('sha256').update(built).digest('hex'),'Image differs: '+name);
  if(name.endsWith('.webp')){assert.equal(built.subarray(0,4).toString(),'RIFF');assert.equal(built.subarray(8,12).toString(),'WEBP');}
- else assert.equal(built.subarray(0,3).toString('hex'),'ffd8ff');
+ else if(name.endsWith('.jpg'))assert.equal(built.subarray(0,3).toString('hex'),'ffd8ff');
+ else if(name.endsWith('.png'))assert.equal(built.subarray(0,8).toString('hex'),'89504e470d0a1a0a');
+ else if(name.endsWith('.ico'))assert.equal(built.subarray(0,4).toString('hex'),'00000100');
  resources.add('dist/assets/'+name);
 }
 const report={status:'passed',basePath,knownRoutes:routes.length,notFoundScenarios:notFoundRoutes.length,localFontFiles:fonts,verifiedResourceFiles:resources.size,checks:['HTML entry for every known route','404 fallback shell','Pages prefixes in HTML/CSS','local font signatures','source/build image SHA-256 equality','prototype noindex retained'],limitation:'Static artifact checks; not a browser or deployment verification.'};
