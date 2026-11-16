@@ -1,0 +1,100 @@
+{
+  "status": "passed",
+  "url": "https://urvold.github.io/urvold-studio/",
+  "commit": "6880b9a1ddcfa81ebf5edbe80f7062f763a55f7d",
+  "workflow": "https://github.com/urvold/urvold-studio/actions/runs/43829374483",
+  "verifiedStylesheet": "index-B9lIiSSh.css",
+  "checks": [
+    {
+      "width": 320,
+      "route": "",
+      "status": "passed"
+    },
+    {
+      "width": 320,
+      "route": "projects/",
+      "status": "passed"
+    },
+    {
+      "width": 320,
+      "route": "services/",
+      "status": "passed"
+    },
+    {
+      "width": 320,
+      "route": "contacts/",
+      "status": "passed"
+    },
+    {
+      "width": 375,
+      "route": "",
+      "status": "passed"
+    },
+    {
+      "width": 375,
+      "route": "projects/",
+      "status": "passed"
+    },
+    {
+      "width": 375,
+      "route": "services/",
+      "status": "passed"
+    },
+    {
+      "width": 375,
+      "route": "contacts/",
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "route": "",
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "route": "projects/",
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "route": "services/",
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "route": "contacts/",
+      "status": "passed"
+    },
+    {
+      "width": 430,
+      "route": "",
+      "status": "passed"
+    },
+    {
+      "width": 430,
+      "route": "projects/",
+      "status": "passed"
+    },
+    {
+      "width": 430,
+      "route": "services/",
+      "status": "passed"
+    },
+    {
+      "width": 430,
+      "route": "contacts/",
+      "status": "passed"
+    }
+  ],
+  "routes": 13,
+  "interactions": [
+    "mobile menu",
+    "portfolio filters",
+    "services accordion"
+  ],
+  "desktopTypeUnchanged": true,
+  "errors": [],
+  "resourceFailures": [],
+  "thirdPartyRequests": [],
+  "cookies": 0
+}
