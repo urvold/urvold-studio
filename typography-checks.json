@@ -1,0 +1,316 @@
+{
+  "scope": "local build only",
+  "status": "passed",
+  "samples": [
+    {
+      "selector": ".hero-copy>p",
+      "size": "17px",
+      "color": "rgb(194, 196, 200)",
+      "lineHeight": "28.05px"
+    },
+    {
+      "selector": ".button",
+      "size": "16px",
+      "color": "rgb(17, 19, 22)",
+      "lineHeight": "24px"
+    },
+    {
+      "selector": ".header-cta",
+      "size": "16px",
+      "color": "rgb(245, 245, 242)",
+      "lineHeight": "24px"
+    },
+    {
+      "selector": ".project-caption>span",
+      "size": "16px",
+      "color": "rgb(194, 196, 200)",
+      "lineHeight": "24px"
+    },
+    {
+      "selector": ".project-description",
+      "size": "17px",
+      "color": "rgb(194, 196, 200)",
+      "lineHeight": "28.05px"
+    },
+    {
+      "selector": ".eyebrow",
+      "size": "13px",
+      "color": "rgb(194, 196, 200)",
+      "lineHeight": "19.5px"
+    },
+    {
+      "selector": "footer small",
+      "size": "13px",
+      "color": "rgb(194, 196, 200)",
+      "lineHeight": "20.8px"
+    }
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/services",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/about",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/contacts",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/apex",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/forma",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/elan",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/putem",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/potok",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/randomwheel",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/missing",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/missing",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/projects",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/services",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/about",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/contacts",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/projects/apex",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/projects/forma",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/projects/elan",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/projects/putem",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/projects/potok",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/projects/randomwheel",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/missing",
+      "overflow": false
+    },
+    {
+      "width": 375,
+      "route": "/projects/missing",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/projects",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/services",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/about",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/contacts",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/projects/apex",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/projects/forma",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/projects/elan",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/projects/putem",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/projects/potok",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/projects/randomwheel",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/missing",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/projects/missing",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/projects",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/services",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/about",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/contacts",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/projects/apex",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/projects/forma",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/projects/elan",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/projects/putem",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/projects/potok",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/projects/randomwheel",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/missing",
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/projects/missing",
+      "overflow": false
+    }
+  ],
+  "contrastChecks": 2814,
+  "minimumNormalContrast": 4.91,
+  "minimumLargeContrast": 5.37,
+  "failures": [],
+  "errors": [],
+  "resourceErrors": []
+}
