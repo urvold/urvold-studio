@@ -1,0 +1,439 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "width": 1024,
+      "zoom": 1,
+      "effectiveViewport": 1024,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 1,
+      "effectiveViewport": 1024,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 1,
+      "effectiveViewport": 1024,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 1,
+      "effectiveViewport": 1024,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 1,
+      "effectiveViewport": 1024,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 1,
+      "effectiveViewport": 1024,
+      "route": "projects/apex/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 2,
+      "effectiveViewport": 512,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 2,
+      "effectiveViewport": 512,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 2,
+      "effectiveViewport": 512,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 2,
+      "effectiveViewport": 512,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 2,
+      "effectiveViewport": 512,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "zoom": 2,
+      "effectiveViewport": 512,
+      "route": "projects/apex/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 1,
+      "effectiveViewport": 1280,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 1,
+      "effectiveViewport": 1280,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 1,
+      "effectiveViewport": 1280,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 1,
+      "effectiveViewport": 1280,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 1,
+      "effectiveViewport": 1280,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 1,
+      "effectiveViewport": 1280,
+      "route": "projects/apex/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 2,
+      "effectiveViewport": 640,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 2,
+      "effectiveViewport": 640,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 2,
+      "effectiveViewport": 640,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 2,
+      "effectiveViewport": 640,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 2,
+      "effectiveViewport": 640,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "zoom": 2,
+      "effectiveViewport": 640,
+      "route": "projects/apex/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 1,
+      "effectiveViewport": 1440,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 1,
+      "effectiveViewport": 1440,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 1,
+      "effectiveViewport": 1440,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 1,
+      "effectiveViewport": 1440,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 1,
+      "effectiveViewport": 1440,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 1,
+      "effectiveViewport": 1440,
+      "route": "projects/apex/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 2,
+      "effectiveViewport": 720,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 2,
+      "effectiveViewport": 720,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 2,
+      "effectiveViewport": 720,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 2,
+      "effectiveViewport": 720,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 2,
+      "effectiveViewport": 720,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "zoom": 2,
+      "effectiveViewport": 720,
+      "route": "projects/apex/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 1,
+      "effectiveViewport": 1600,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 1,
+      "effectiveViewport": 1600,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 1,
+      "effectiveViewport": 1600,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 1,
+      "effectiveViewport": 1600,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 1,
+      "effectiveViewport": 1600,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 1,
+      "effectiveViewport": 1600,
+      "route": "projects/apex/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 2,
+      "effectiveViewport": 800,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 2,
+      "effectiveViewport": 800,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 2,
+      "effectiveViewport": 800,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 2,
+      "effectiveViewport": 800,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 2,
+      "effectiveViewport": 800,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "zoom": 2,
+      "effectiveViewport": 800,
+      "route": "projects/apex/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 1,
+      "effectiveViewport": 1920,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 1,
+      "effectiveViewport": 1920,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 1,
+      "effectiveViewport": 1920,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 1,
+      "effectiveViewport": 1920,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 1,
+      "effectiveViewport": 1920,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 1,
+      "effectiveViewport": 1920,
+      "route": "projects/apex/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 2,
+      "effectiveViewport": 960,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 2,
+      "effectiveViewport": 960,
+      "route": "projects/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 2,
+      "effectiveViewport": 960,
+      "route": "services/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 2,
+      "effectiveViewport": 960,
+      "route": "about/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 2,
+      "effectiveViewport": 960,
+      "route": "contacts/",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "zoom": 2,
+      "effectiveViewport": 960,
+      "route": "projects/apex/",
+      "overflow": false
+    }
+  ],
+  "contrastCount": 3210,
+  "minimumNormalContrast": 4.91,
+  "minimumLargeContrast": 5.37,
+  "failures": [],
+  "errors": [],
+  "sizes": {
+    ".page-intro>p": "18px",
+    ".service-description dd": "18px",
+    ".service-description dt": "16px",
+    "header nav": "16px",
+    ".process-grid p": "18px"
+  },
+  "zoomMethod": "200% reflow equivalent: CSS viewport halved for the same physical width; not pinch zoom or OS scaling",
+  "mobileSamplesUnchanged": true
+}
